@@ -1,4 +1,4 @@
-# mesa3D-Windows
+# Mesa3D-Windows
 
 Please support the official MESA repository at https://gitlab.freedesktop.org/mesa/mesa
 
